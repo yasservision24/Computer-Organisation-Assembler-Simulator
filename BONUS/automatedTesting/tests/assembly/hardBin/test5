@@ -1,0 +1,5 @@
+mov R1 $8.5
+mov R2 $9.25
+cmp R2 R1
+arc R1 R2
+hlt

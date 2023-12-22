@@ -1,0 +1,5 @@
+cube R0 R1
+cube R2 R3
+cube R3 R1
+cube R0 R1
+hlt

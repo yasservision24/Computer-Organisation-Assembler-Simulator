@@ -1,0 +1,4 @@
+sqr R0 R1
+sqr R1 R5 
+sqr R2 R3 
+hlt

@@ -1,0 +1,78 @@
+var abc
+var cde
+var xyz
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+cube R0 R1 
+label4: sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+label3: sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+label2: sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+label: sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+sqr R0 R1 
+hlt

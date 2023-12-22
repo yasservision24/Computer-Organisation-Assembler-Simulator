@@ -1,0 +1,6 @@
+var xyz
+add
+add R0 R1 R2
+cube R0 $100
+add R0 $1211
+add R0 xyz
